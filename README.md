@@ -1,2 +1,16 @@
-# linux-systems-administration-lab
-Hands-on Linux and Systems Administration learning project
+linux-systems-administration-lab/
+│
+├── README.md
+│
+├── 01-linux-fundamentals/
+│   └── first-linux-session.md
+│
+├── 02-users-and-permissions/
+│
+├── 03-process-management/
+│
+├── 04-networking/
+│
+├── 05-system-administration/
+│
+└── screenshots/
